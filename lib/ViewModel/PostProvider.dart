@@ -1,7 +1,7 @@
 import 'dart:convert';
 
 import 'package:flutter/material.dart';
-import 'model.dart';
+import '../model/model.dart';
 
 class PostProvider with ChangeNotifier{
 

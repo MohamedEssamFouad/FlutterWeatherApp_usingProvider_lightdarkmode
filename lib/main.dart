@@ -3,8 +3,8 @@ import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:provider/provider.dart';
 
-import 'PostProvider.dart';
-import 'home.dart';
+import 'ViewModel/PostProvider.dart';
+import 'view/home.dart';
 
 void main() {
   runApp(
